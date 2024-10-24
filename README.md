@@ -30,9 +30,12 @@ Tapez cette commande pour cloner le dossier sur votre ordinateur :
 - git clone git@github.com:theodessaixwalger/REST-API.git
 
 Allez dans le dossier où vous avez clone le dossier puis tapez ces commandes :
+- npm init
 - npm i express
 - npm i nodemon
 - npm i mysql
+
+Dans le dossier de votre clone vous ajouterez un fichier ".gitignore" et dedans vous allez coller "node_modules/"
 
 Une fois que tout est installé tapez la commande :
 - npm start
